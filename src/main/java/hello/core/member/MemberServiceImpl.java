@@ -2,6 +2,7 @@ package hello.core.member;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 // 인터페이스 구현체가 하나면 Impl 을 붙이는게 관행
 @Component
